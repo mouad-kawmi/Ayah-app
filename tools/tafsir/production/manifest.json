@@ -1,0 +1,87 @@
+{
+  "tool": "tools/tafsir/build_production_tafsir_db.py",
+  "generatedAt": "2026-08-03T15:30:06Z",
+  "python": "3.14.3",
+  "baseUrl": "http://192.168.1.119:8080/",
+  "schemaVersion": 1,
+  "appVersion": "1.0",
+  "canonicalVerseCount": 6236,
+  "builds": [
+    {
+      "id": "muyassar",
+      "version": "1.0.0",
+      "source": "api.alquran.cloud — edition ar.muyassar (build-time, §7)",
+      "edition": "ar.muyassar",
+      "sha256": "0b68f00b9c346694da5521543b183bf6961c6525ae246b598e80e0b57cfac804",
+      "sizeBytes": 2801664,
+      "installedSizeBytes": 2801664,
+      "durationS": 0.23,
+      "emptyVerseCount": 0,
+      "file": "site\\resources\\tafsir\\muyassar\\1.0.0.db"
+    },
+    {
+      "id": "ibn_kathir",
+      "version": "1.0.0",
+      "source": "QUL — qul.tarteel.ai (open data, via spa5k/tafsir_api mirror, MIT)",
+      "edition": "QUL resource tafsir/22 (ar-tafsir-ibn-kathir)",
+      "sha256": "95674a8ff654886e5813bf3e8766665b247bdf059d0bbe82b40e12ab16f9f63f",
+      "sizeBytes": 90611712,
+      "installedSizeBytes": 90611712,
+      "durationS": 6.79,
+      "emptyVerseCount": 0,
+      "file": "site\\resources\\tafsir\\ibn_kathir\\1.0.0.db"
+    },
+    {
+      "id": "tabari",
+      "version": "1.0.0",
+      "source": "QUL — qul.tarteel.ai (open data, via spa5k/tafsir_api mirror, MIT)",
+      "edition": "QUL resource tafsir/37 (ar-tafsir-al-tabari)",
+      "sha256": "7cc2322653b88f364e7e527b39c86cdc7f317048daaaa1088ec980f979585881",
+      "sizeBytes": 61987840,
+      "installedSizeBytes": 61987840,
+      "durationS": 4.81,
+      "emptyVerseCount": 0,
+      "file": "site\\resources\\tafsir\\tabari\\1.0.0.db"
+    },
+    {
+      "id": "qurtubi",
+      "version": "1.0.0",
+      "source": "QUL — qul.tarteel.ai (open data, via spa5k/tafsir_api mirror, MIT)",
+      "edition": "QUL resource tafsir/23 (ar-tafseer-al-qurtubi)",
+      "sha256": "8c1df4ffca76c12b442b7b118d0b071a059c0c33bd0ee99062b44331f415db95",
+      "sizeBytes": 79016960,
+      "installedSizeBytes": 79016960,
+      "durationS": 6.66,
+      "emptyVerseCount": 2,
+      "file": "site\\resources\\tafsir\\qurtubi\\1.0.0.db"
+    },
+    {
+      "id": "baghawi",
+      "version": "1.0.0",
+      "source": "QUL — qul.tarteel.ai (open data, via spa5k/tafsir_api mirror, MIT)",
+      "edition": "QUL resource tafsir/27 (ar-tafsir-al-baghawi)",
+      "sha256": "c408a4a9d574eb88bc1ed5d19ad4ac5786c036fe529e2b256f5eb9ea25a5a14f",
+      "sizeBytes": 39552000,
+      "installedSizeBytes": 39552000,
+      "durationS": 3.44,
+      "emptyVerseCount": 0,
+      "file": "site\\resources\\tafsir\\baghawi\\1.0.0.db"
+    },
+    {
+      "id": "fath_al_qadir",
+      "version": "1.0.0",
+      "source": "QUL — qul.tarteel.ai (open data, via spa5k/tafsir_api mirror, MIT)",
+      "edition": "QUL resource tafsir/494 (fath-al-qadir-al-shawkani)",
+      "sha256": "b889d72f240f06357bae9b37edf66df51a418562027bd6d343d5ad97fe4e59ab",
+      "sizeBytes": 180793344,
+      "installedSizeBytes": 180793344,
+      "durationS": 14.96,
+      "emptyVerseCount": 0,
+      "file": "site\\resources\\tafsir\\fath_al_qadir\\1.0.0.db"
+    }
+  ],
+  "totalDurationS": 37.2,
+  "warnings": [
+    "qurtubi: 2 verses without tafsir text (empty strings)"
+  ]
+}

@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+**/build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.keystore
+*.jks
+secrets/
+secrets.*
+
+# Production resources
+tools/tafsir/production/site/resources/
+
+# Test resources
+tools/tafsir/site/resources/
+
+# Generated databases
+*.db
+!app/src/main/assets/tafsir/muyassar.db
