@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Ayah+-+Quran+%26+Prayer+App" alt="Ayah Hero Image">
+ 
   
   <h1>Ayah 📖🕋</h1>
   <p>A beautifully designed, feature-rich Quran and Prayer Times application for Android, built entirely with modern Android development tools.</p>
