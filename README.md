@@ -28,10 +28,10 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" width="200" alt="Screenshot 1">
-  <img src="https://via.placeholder.com/250x500.png?text=Quran+Reader" width="200" alt="Screenshot 2">
-  <img src="https://via.placeholder.com/250x500.png?text=Prayer+Times" width="200" alt="Screenshot 3">
-  <img src="https://via.placeholder.com/250x500.png?text=Widgets" width="200" alt="Screenshot 4">
+  <img src="screen/photo_6023764097788218989_w.jpg" width="200" alt="Screenshot 1">
+  <img src="screen/photo_6023764097788218990_w.jpg" width="200" alt="Screenshot 2">
+  <img src="screen/photo_6023764097788218991_w.jpg" width="200" alt="Screenshot 3">
+  <img src="screen/photo_6023764097788218992_w.jpg" width="200" alt="Screenshot 4">
 </div>
 
 ## 🏗️ Architecture
@@ -85,9 +85,9 @@ app/
 - [x] Initial UI Design & Jetpack Compose setup
 - [x] Offline Quran reading capability
 - [x] Adhan background playback
+- [x] Qibla compass integration
 - [ ] Multi-language translation support
-- [ ] Qibla compass integration
-- [ ] User progress synchronization
+
 
 ## ⬇️ Download (Coming Soon)
 

@@ -22,3 +22,7 @@ tools/tafsir/site/resources/
 # Generated databases
 *.db
 !app/src/main/assets/tafsir/muyassar.db
+
+# Project local folders
+/screen/
+/FFF/
