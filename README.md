@@ -28,10 +28,10 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screen/photo_6023764097788218989_w.jpg" width="200" alt="Screenshot 1">
-  <img src="screen/photo_6023764097788218990_w.jpg" width="200" alt="Screenshot 2">
-  <img src="screen/photo_6023764097788218991_w.jpg" width="200" alt="Screenshot 3">
-  <img src="screen/photo_6023764097788218992_w.jpg" width="200" alt="Screenshot 4">
+  <img src="https://github.com/user-attachments/assets/e6e95f8d-c9bf-4928-9d1b-e79ec91253a0" width="200" alt="Screenshot 1">
+  <img src="https://github.com/user-attachments/assets/9c9ebad7-e428-4523-9462-c49d603edddc" width="200" alt="Screenshot 2">
+  <img src="https://github.com/user-attachments/assets/89bd3a9f-ddde-46cb-b115-d9616ef288c7" width="200" alt="Screenshot 3">
+  <img src="https://github.com/user-attachments/assets/0d4e1caa-ddde-4071-8530-9f73f21c563c" width="200" alt="Screenshot 4">
 </div>
 
 ## 🏗️ Architecture
